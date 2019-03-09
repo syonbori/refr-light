@@ -3,8 +3,9 @@
 ## AVR
 ATTiny13A with 4.8MHz internal clock
 
-## schematic
+## schematics
 see refr-light.png
+![schematics](https://raw.githubusercontent.com/syonbori/refr-light/master/refr-light.png "schematics")
 
 ## behavior
 - when door closed, light turns off and enter sleep
